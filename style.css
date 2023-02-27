@@ -1,0 +1,51 @@
+html {
+    background-image: url(https://fiord.org/wp-content/uploads/2017/02/Vector_Art___God_Odin.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-attachment: fixed;
+    background-size: 800px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    color: rgb(34, 161, 18);
+    /* смещение-x | смещение-y | радиус-размытия | цвет */
+    text-shadow: 1px 1px 2px rgb(119, 231, 216);
+    background-color: rgb(235, 219, 219);
+
+    line-height: 59px;
+    padding: 0%;
+
+}
+
+.N {
+    font-size: 25px;
+    color: rgb(233, 18, 18);
+}
+
+p {
+    font-size: 17px;
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(87, 2, 75);
+}
+
+.lp {
+    font-size: 20px;
+    color: rgb(218, 18, 18);
+}
+
+.lop {
+    font-size: 20px;
+    color: blue;
+}
+
+a {
+    font-size: 30px;
+    color: black;
+    text-align: left;
+
+}
